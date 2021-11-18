@@ -1,4 +1,3 @@
-x = 1
 while True:
     System1 = (input("Solve Mass Defect (1) or Energy/Wavelength/Freqency (2): "))
     if System1 == "1":
