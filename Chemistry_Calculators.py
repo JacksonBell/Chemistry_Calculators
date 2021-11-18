@@ -21,5 +21,3 @@ while True:
         break
     elif System3 == "":
         None
-else:
-    print("Please Select A Valid Number")
