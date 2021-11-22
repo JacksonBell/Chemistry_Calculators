@@ -17,7 +17,7 @@ while True:
     else:
         print("Please Select A Valid Number")
     System3 = (input("Exit (1), or Restart (Enter)?: "))
-    if System3 == "1":
-        break
-    elif System3 == "":
+    if System3 == "":
         None
+    elif System3 == "1":
+        break
