@@ -1,5 +1,5 @@
 while True:
-    System1 = (input("Solve Mass Defect (1) or Energy/Wavelength/Freqency (2): "))
+    System1 = (input("Solve Mass Defect (1) or Energy/Wavelength/Frequency (2): "))
     if System1 == "1":
         Nucleus = (float(input("Enter Mass Number: ")) * float(1.66054E-27)) - (float(input("Enter Electron Amount: ")) * float(9.10915E-31))
         Protons = (float(input("Enter Proton Amount: ")) * float(1.67262E-27)) + (float(input("Enter Neutron Amount: ")) * float(1.67495E-27))
